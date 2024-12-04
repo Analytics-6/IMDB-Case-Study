@@ -6,7 +6,7 @@
 - [Link to Dataset](#link-to-dataset)
 - [Tools](#tools)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysis Techniques/Skills](#data-analysis-techniques/skills)
+- [Methods and Skills](#methods-and-skills)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 - [References](#references)
@@ -25,7 +25,7 @@ https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movie
 - Highest,lowest and average IMDB ratings
 - Different certificates issued
 
-### Data Analysis Techniques/Skills
+### Methods and Skills
 
 - Union All
 - Replace, Cast, Type Conversions
