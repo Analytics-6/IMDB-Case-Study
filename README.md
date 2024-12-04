@@ -14,7 +14,7 @@
 ### Project Overview
 Data Analysis project to learn about IMDB top 1000 movies (duration, famous movies, directors and stars).
 
-### Link to the dataset::
+### Link to the dataset
 https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
 ### Tools
