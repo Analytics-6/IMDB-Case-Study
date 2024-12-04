@@ -6,7 +6,7 @@
 - [Link to Dataset](#link-to-dataset)
 - [Tools](#tools)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysis](#data-analysis-techniques/skills)
+- [Data Analysis Techniques/Skills](#data-analysis-techniques/skills)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 - [References](#references)
